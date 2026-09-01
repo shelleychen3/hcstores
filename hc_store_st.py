@@ -39,7 +39,7 @@ SERVICE_ICONS = {"廁所": "🚻", "ATM": "🏧", "座位區": "🪑"}
 
 
 st.set_page_config(
-    page_title="新竹超商服務地圖",
+    page_title="新竹超商服務地圖【No24陳莉萱】",
     page_icon="🗺️",
     layout="wide",
 )
@@ -317,7 +317,7 @@ st.markdown(
         background:rgba(128,128,128,.055); }
     </style>
     <div class="brand-rail"><span></span><span></span><span></span><span></span><span></span></div>
-    <h1 class="hero-title">新竹超商服務地圖</h1>
+    <h1 class="hero-title">新竹超商服務地圖【No24陳莉萱】</h1>
     <p class="hero-copy">在同一張地圖比較 7-11、全家、Hi-Life 與 OKmart 門市，並依廁所、ATM、座位區篩選。</p>
     """,
     unsafe_allow_html=True,
